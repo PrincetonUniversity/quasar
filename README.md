@@ -3,6 +3,12 @@ quasar
 
 A collection of MATLAB routines used to perform **Qu**antitative **A**nalysis of **S**acculus **A**rchitectural **R**emodeling. While these routines have been designed for analyzing fluorescent images for a specific experimental design, they can be easily modified or adapted for other designs. 
 
+If you find these routines to be useful, please cite
+
+[A Periplasmic Polymer Curves Vibrio cholerae and Promotes Pathogenesis](http://www.cell.com/cell/abstract/S0092-8674(16)31735-4)
+Bartlett, Thomas M. et al. Cell , Volume 168 , Issue 1 , 172 - 185.e15
+
+
 ## Requirements
 These routines utilize MATLAB and the following toolboxes 
 
